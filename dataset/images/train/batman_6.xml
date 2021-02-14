@@ -1,7 +1,7 @@
 <annotation>
 	<folder>images</folder>
 	<filename>batman_6.jpg</filename>
-	<path>C:\Users\yunus\Desktop\dataset_from_video\images\batman_6.jpg</path>
+	<path>C:\Users\yunus\Documents\GitHub\ObjectDetection-Tensorflow\dataset\images\batman_6.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -17,10 +17,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>185</xmin>
-			<ymin>218</ymin>
-			<xmax>673</xmax>
-			<ymax>1012</ymax>
+			<xmin>219</xmin>
+			<ymin>239</ymin>
+			<xmax>523</xmax>
+			<ymax>856</ymax>
 		</bndbox>
 	</object>
 </annotation>
